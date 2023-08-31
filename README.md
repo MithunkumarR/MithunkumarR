@@ -1,0 +1,4 @@
+- Hi, I’m Mithunkumar
+- A AI & ML student
+- Currently focusing on Deep learning & ML algorithms with it's real time implementations
+- Contact: mithunkumar2003@gmail.com
